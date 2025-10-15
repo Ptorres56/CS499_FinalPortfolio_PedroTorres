@@ -1,78 +1,78 @@
 # CS 499 Final Project Portfolio – Pedro Torres
 
 ## Overview
-Welcome to my professional ePortfolio for **Southern New Hampshire University’s CS 499 Computer Science Capstone**.  
-This portfolio showcases my technical growth and mastery of core computer science principles through the **Daily Drop** mobile application.  
-The project demonstrates my ability to design, implement, and enhance software that integrates strong UI/UX design, algorithmic optimization, and database management.
+This repository contains my professional ePortfolio for Southern New Hampshire University’s CS 499 Computer Science Capstone.  
+It highlights my growth and mastery of software engineering principles through the development and enhancement of the *Daily Drop* mobile application.  
+The project demonstrates my ability to design, implement, and improve software that integrates user-centered design, algorithmic efficiency, and database management.
 
 ---
 
 ## Code Review
 **Video Link:** [Watch the Code Review on YouTube](https://www.youtube.com/watch?v=KHVDklvxz5w)  
 
-[![Watch the video](https://img.youtube.com/vi/KHVDklvxz5w/0.jpg)](https://www.youtube.com/watch?v=KHVDklvxz5w)
-
-This video provides a walkthrough of the original *Daily Drop* app and outlines the planned enhancements for improving software design, algorithms, and database integration.  
-It highlights areas of improvement and demonstrates my understanding of software engineering principles and problem-solving methodology.
+This video provides an overview of the original *Daily Drop* app and outlines the planned enhancements for improving software design, algorithms, and database integration.  
+It discusses my approach to identifying areas for improvement and how each enhancement supports program learning outcomes.
 
 ---
 
 ## Artifact: The Daily Drop App
-**Original Artifact:** [Download Original Daily Drop (ZIP)](./Original%20Daily%20Drop.zip)  
 The *Daily Drop* app is a mobile weight-tracking application designed to help users record daily progress, receive motivational feedback, and view trends.  
-This artifact served as the foundation for all three enhancements.
+The original version of this artifact was developed in **CS 360: Mobile Architecture and Programming**, where I built the foundational Android application structure, user interface, and initial database integration.  
+For the CS 499 Capstone, this artifact was enhanced and refined across multiple stages to demonstrate mastery in software design, algorithmic logic, and database management.  
+This project represents the culmination of my academic journey, combining technical proficiency, creativity, and problem-solving in a single cohesive application.
 
 ---
 
 ## Enhancement 1 – Software Design and Engineering
-**Files:**  
-- [Software Design and Engineering Enhancement.pdf](./Software%20Design%20and%20Engineering%20Enhancement.pdf)  
-- [Enhancement One – Software Design and Engineering (ZIP)](./Enhancement%20One-Software%20Design%20and%20Engineering.zip)
+All related code, documents, and deliverables for this enhancement can be found in the **Enhancement-One branch** of this repository.  
 
-**Summary:**  
 This enhancement focused on improving the *Daily Drop* app’s overall structure, layout consistency, and code readability.  
-I refactored the interface to strengthen modularity, introduced clearer navigation, and refined the visual hierarchy to improve the user experience.  
-These updates enhanced maintainability and better aligned the application with modern UI/UX design standards.
+I refined the user interface to enhance the visual hierarchy, adjusted the layout for responsiveness, and implemented modular design principles to improve maintainability and scalability.  
+These updates strengthened the foundation of the application and aligned it with best practices in modern software development.
 
 ---
 
 ## Enhancement 2 – Algorithms and Data Structures
-**Files:**  
-- [Algorithms and Data Structures Enhancement.pdf](./Algorithms%20and%20Data%20Structures%20Enhancement.pdf)  
-- [Enhancement Two – Algorithms and Data Structures (ZIP)](./Enhancement%20Two-Algorithms%20and%20Data%20Structures.zip)
+All related code, documents, and deliverables for this enhancement can be found in the **Enhancement-Two branch** of this repository.  
 
-**Summary:**  
-This enhancement centered on algorithmic optimization and data handling.  
-I streamlined data processing by implementing efficient weight-entry validation and optimized logic for calculating progress averages.  
-Through improved structure and the application of algorithmic best practices, the app became faster, more accurate, and easier to maintain.
+This enhancement improved the app’s efficiency and reliability by optimizing algorithmic processes.  
+I refined the weight tracking calculations, optimized input validation, and simplified data flow to ensure consistent and accurate performance.  
+These changes improved execution speed and enhanced the overall stability of the application.
 
 ---
 
 ## Enhancement 3 – Databases
-**Files:**  
-- [Databases Enhancement.pdf](./Databases%20Enhancement.pdf)  
-- [Enhancement Three – Databases (ZIP)](./Enhancement%20Three-Databases.zip)
+All related code, documents, and deliverables for this enhancement can be found in the **Enhancement-Three branch** of this repository.  
 
-**Summary:**  
-This enhancement expanded the app’s persistence layer using **SQLite** for secure and reliable data storage.  
-I developed robust CRUD operations to ensure data accuracy and implemented error handling for data validation.  
-The resulting database integration provides smooth synchronization and enhances the app’s stability and security.
+This enhancement expanded the application’s database capabilities through the use of SQLite.  
+I implemented CRUD operations for secure and efficient data storage, improved data validation, and introduced better query handling to maintain reliability.  
+The updated database functionality ensures long-term data persistence and improved security.
 
 ---
 
 ## Professional Self-Assessment
-**File:** [Professional Self-Assessment.pdf](./Professional%20Self-Assessment.pdf)  
-
-This self-assessment reflects on my academic and professional journey through SNHU’s Computer Science program.  
-It discusses how my coursework, projects, and artifact enhancements strengthened my problem-solving abilities, technical skills, and readiness to succeed as a software engineer.  
-It also highlights key competencies, including collaboration, ethical coding practices, and secure design principles.
+The professional self-assessment included in this portfolio reflects on my academic and professional journey throughout the Computer Science program.  
+It highlights how I have grown as a software engineer and demonstrates the knowledge and skills I have gained in software design, algorithmic thinking, database management, and professional communication.
 
 ---
 
-## Navigation Notes
-This repository is organized to align with **SNHU’s CS 499 capstone submission guidelines**.  
-Each enhancement includes its corresponding documentation (PDF) and source code (ZIP).  
-The structure demonstrates clear organization, readable formatting, and adherence to professional software development presentation standards.
+## Repository Structure
+- The **main** branch serves as the professional portfolio overview, containing the README, self-assessment, and summary information.
+- The **Enhancement-One**, **Enhancement-Two**, and **Enhancement-Three** branches each contain the corresponding enhanced artifacts and supporting documentation.
+- The **Original-Daily-Drop** branch contains the original code developed during **CS 360: Mobile Architecture and Programming**, which served as the foundation for the CS 499 capstone enhancements.
+
+---
+
+## Contact
+**Pedro Torres**  
+Computer Science Major | Southern New Hampshire University  
+Email: pedro.torres4@snhu.edu  
+GitHub: https://github.com/Ptorres56
+
+---
+
+**Note:** Each enhancement branch contains the complete code and documentation for that phase of the project.  
+The `main` branch serves as the polished presentation of this ePortfolio.
 
 ---
 
