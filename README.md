@@ -1,15 +1,26 @@
-# CS 499 Final Project Portfolio – Pedro Torres
+# 🎓 CS 499 Final Project Portfolio – Pedro Torres
 
 ## Overview
-This repository contains my professional ePortfolio for **Southern New Hampshire University’s CS 499 Computer Science Capstone**.  
-It highlights my progression as a software engineer through the *Daily Drop* mobile application and three major enhancements:
-software design and engineering, algorithms and data structures, and databases.
+Welcome to my professional ePortfolio for **Southern New Hampshire University’s CS 499 Computer Science Capstone**.  
+This portfolio showcases my technical growth and mastery of core computer science principles through the **Daily Drop** mobile application.  
+The project demonstrates my ability to design, implement, and enhance software that integrates strong UI/UX design, algorithmic optimization, and database management.
 
 ---
 
 ## 📹 Code Review
-**File:** [CodeReviewVideo.mkv](./CodeReviewVideo.mkv)  
-This video provides an overview of the original artifact and outlines the enhancement plans used to refine functionality, efficiency, and structure.
+**Video Link:** [Watch the Code Review on YouTube](https://www.youtube.com/watch?v=KHVDklvxz5w)  
+
+[![Watch the video](https://img.youtube.com/vi/KHVDklvxz5w/0.jpg)](https://www.youtube.com/watch?v=KHVDklvxz5w)
+
+This video provides a walkthrough of the original *Daily Drop* app and outlines the planned enhancements for improving software design, algorithms, and database integration.  
+It highlights areas of improvement and demonstrates my understanding of software engineering principles and problem-solving methodology.
+
+---
+
+## 🧩 Artifact: The Daily Drop App
+**Original Artifact:** [Download Original Daily Drop (ZIP)](./Original%20Daily%20Drop.zip)  
+The *Daily Drop* app is a mobile weight-tracking application designed to help users record daily progress, receive motivational feedback, and view trends.  
+This artifact served as the foundation for all three enhancements.
 
 ---
 
@@ -19,7 +30,9 @@ This video provides an overview of the original artifact and outlines the enhanc
 - [Enhancement One – Software Design and Engineering (ZIP)](./Enhancement%20One-Software%20Design%20and%20Engineering.zip)
 
 **Summary:**  
-This enhancement focused on refining the *Daily Drop* app’s user interface and improving layout responsiveness and maintainability using Android Studio. I implemented cleaner navigation, visual hierarchy, and better modular design principles.
+This enhancement focused on improving the *Daily Drop* app’s overall structure, layout consistency, and code readability.  
+I refactored the interface to strengthen modularity, introduced clearer navigation, and refined the visual hierarchy to improve the user experience.  
+These updates enhanced maintainability and better aligned the application with modern UI/UX design standards.
 
 ---
 
@@ -29,7 +42,9 @@ This enhancement focused on refining the *Daily Drop* app’s user interface and
 - [Enhancement Two – Algorithms and Data Structures (ZIP)](./Enhancement%20Two-Algorithms%20and%20Data%20Structures.zip)
 
 **Summary:**  
-This enhancement improved the app’s performance by optimizing weight data calculations, enhancing input validation, and refining code structure for efficient data processing.
+This enhancement centered on algorithmic optimization and data handling.  
+I streamlined data processing by implementing efficient weight-entry validation and optimized logic for calculating progress averages.  
+Through improved structure and the application of algorithmic best practices, the app became faster, more accurate, and easier to maintain.
 
 ---
 
@@ -39,25 +54,25 @@ This enhancement improved the app’s performance by optimizing weight data calc
 - [Enhancement Three – Databases (ZIP)](./Enhancement%20Three-Databases.zip)
 
 **Summary:**  
-This enhancement focused on integrating SQLite database features to allow secure data storage and retrieval. It improved CRUD operations, query efficiency, and data persistence across app sessions.
+This enhancement expanded the app’s persistence layer using **SQLite** for secure and reliable data storage.  
+I developed robust CRUD operations to ensure data accuracy and implemented error handling for data validation.  
+The resulting database integration provides smooth synchronization and enhances the app’s stability and security.
 
 ---
 
 ## 🧠 Professional Self-Assessment
 **File:** [Professional Self-Assessment.pdf](./Professional%20Self-Assessment.pdf)  
-This reflective paper summarizes my professional growth, key learning outcomes, and technical progression through the SNHU Computer Science program.
 
----
-
-## 💾 Original Artifact
-**File:** [Original Daily Drop (ZIP)](./Original%20Daily%20Drop.zip)  
-This was the original mobile application prior to the enhancements implemented throughout the CS 499 course.
+This self-assessment reflects on my academic and professional journey through SNHU’s Computer Science program.  
+It discusses how my coursework, projects, and artifact enhancements strengthened my problem-solving abilities, technical skills, and readiness to succeed as a software engineer.  
+It also highlights key competencies, including collaboration, ethical coding practices, and secure design principles.
 
 ---
 
 ## 🧭 Navigation Notes
-All files in this repository are structured to align with SNHU’s final capstone submission guidelines.  
-The repository demonstrates UI/UX organization and clear navigation through properly labeled folders and documents.
+This repository is organized to align with **SNHU’s CS 499 capstone submission guidelines**.  
+Each enhancement includes its corresponding documentation (PDF) and source code (ZIP).  
+The structure demonstrates clear organization, readable formatting, and adherence to professional software development presentation standards.
 
 ---
 
